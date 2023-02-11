@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @okonofuabenjamin
-- 👀 I’m interested in computers and spirituality
+- 👀 I’m interested in computers and programming and ethical and cybersecurity
 - 🌱 I’m currently learning everything i can learn
 - 💞️ I’m looking to collaborate on anyting
 - 📫 How to reach me +2349011285100 on whatsapp or okonofuabenjamin@gmail.com
