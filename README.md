@@ -17,6 +17,7 @@
 - linux os
 - network and isp bug hunting.
 - Penetration Tester
+- And many more...
 
 <!---
 okonofuabenjamin/okonofuabenjamin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
